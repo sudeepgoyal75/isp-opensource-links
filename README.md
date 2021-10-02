@@ -3,3 +3,5 @@
 ## Generate new GPG Key
 https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
 
+## Indian Stock market 
+https://github.com/rsquaredacademy/nse2r
