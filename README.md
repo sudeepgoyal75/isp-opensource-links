@@ -5,3 +5,5 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 
 ## Indian Stock market 
 https://github.com/rsquaredacademy/nse2r
+https://forum.valuepickr.com/
+https://www.screener.in/
