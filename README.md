@@ -9,3 +9,4 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 - https://www.screener.in/
 - http://www.apidatafeed.com/
 - https://www.alphavantage.co/#about
+- https://nsetools.readthedocs.io/en/latest/usage.html
