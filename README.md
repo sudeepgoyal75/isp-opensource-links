@@ -10,3 +10,8 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 - http://www.apidatafeed.com/
 - https://www.alphavantage.co/#about
 - https://nsetools.readthedocs.io/en/latest/usage.html
+
+
+# network trace
+- https://ebpf.io/
+- dtrace
