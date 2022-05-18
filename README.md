@@ -15,3 +15,11 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 # network trace
 - https://ebpf.io/
 - dtrace
+
+# Proxy
+- http://www.squid-cache.org/
+- https://linuxtechlab.com/squid-transparent-proxy-server-complete-configuration/
+- nginx
+
+# Password management
+- https://www.passwordstore.org/
