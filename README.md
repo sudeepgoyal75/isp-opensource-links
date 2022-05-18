@@ -20,6 +20,9 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 - http://www.squid-cache.org/
 - https://linuxtechlab.com/squid-transparent-proxy-server-complete-configuration/
 - nginx
+- conntrack 
 
 # Password management
 - https://www.passwordstore.org/
+
+
