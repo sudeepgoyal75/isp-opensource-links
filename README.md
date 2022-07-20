@@ -15,6 +15,7 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 # network trace
 - https://ebpf.io/
 - dtrace
+- DNS tracking tool online --> https://dnsviz.ne
 
 # Proxy
 - http://www.squid-cache.org/
