@@ -25,5 +25,6 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 
 # Password management
 - https://www.passwordstore.org/
-
+- https://bitwarden.com/
+- https://www.cyberark.com/
 
