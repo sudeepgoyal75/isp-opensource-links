@@ -28,3 +28,5 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 - https://bitwarden.com/
 - https://www.cyberark.com/
 
+# Linux 
+- https://rockylinux.org/ (centos clone)
