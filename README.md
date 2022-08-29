@@ -37,3 +37,7 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 
 # vpn server
 - wire guard
+
+# Buffer
+- Protocol Buffers by google
+- zeromq
