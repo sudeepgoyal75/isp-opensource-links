@@ -48,3 +48,8 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 
 # Terraform GUI
 - Gaia
+
+# Opensource CPE management
+- https://easycwmp.org/
+- https://genieacs.com/
+- https://openwrt.org/
