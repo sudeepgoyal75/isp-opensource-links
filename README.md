@@ -60,3 +60,5 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 # Web Console for linux
 - https://cockpit-project.org/
 
+# Workflow management
+- https://airflow.apache.org/
