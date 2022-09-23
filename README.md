@@ -55,3 +55,8 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 
 # Load testing
 - Ddosfiy
+- Robot framework
+
+# Web Console for linux
+- https://cockpit-project.org/
+
