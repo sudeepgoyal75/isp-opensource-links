@@ -2,6 +2,7 @@
 
 ## Generate new GPG Key
 https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
+https://github.com/AGWA/git-crypt ( securue checkin to git )
 
 ## Indian Stock market 
 - https://github.com/rsquaredacademy/nse2r
@@ -64,3 +65,6 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 
 # Workflow management
 - https://airflow.apache.org/
+
+# data AI
+- https://www.kaggle.com/
