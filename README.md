@@ -27,6 +27,7 @@ https://docs.github.com/en/authentication/managing-commit-signature-verification
 - https://www.passwordstore.org/
 - https://bitwarden.com/
 - https://www.cyberark.com/
+- https://github.com/AGWA/git-crypt ( securue checkin to git )
 
 # Linux 
 - https://rockylinux.org/ (centos clone)
