@@ -71,3 +71,6 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 
 # data AI
 - https://www.kaggle.com/
+
+# Data/performance destribution 
+- Zipfian Distribution
