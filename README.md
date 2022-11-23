@@ -74,3 +74,6 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 
 # Data/performance destribution 
 - Zipfian Distribution
+
+# cauth sync
+- https://gluu.org/
