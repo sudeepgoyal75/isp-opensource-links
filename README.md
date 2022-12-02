@@ -77,3 +77,6 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 
 # cauth sync
 - https://gluu.org/
+
+# generate certificate
+- sscep
