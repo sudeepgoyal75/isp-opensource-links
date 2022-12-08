@@ -80,3 +80,8 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 
 # generate certificate
 - sscep
+
+# filebeat
+- filebeat
+- https://vector.dev/
+
