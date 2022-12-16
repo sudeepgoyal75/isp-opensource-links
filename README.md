@@ -26,6 +26,7 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 - https://linuxtechlab.com/squid-transparent-proxy-server-complete-configuration/
 - nginx
 - conntrack 
+- https://github.com/sipt/shuttle
 
 # Password management
 - https://www.passwordstore.org/
