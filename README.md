@@ -27,6 +27,7 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 - nginx
 - conntrack 
 - https://github.com/sipt/shuttle
+- https://github.com/spritesprite/proxychannel.git ( golang proxy)
 
 # Password management
 - https://www.passwordstore.org/
