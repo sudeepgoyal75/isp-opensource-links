@@ -87,3 +87,5 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 - filebeat
 - https://vector.dev/
 
+# Python
+- rich lib for graphical on console (pip3 install rich)
