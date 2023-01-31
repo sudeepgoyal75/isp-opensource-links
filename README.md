@@ -89,3 +89,7 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 
 # Python
 - rich lib for graphical on console (pip3 install rich)
+
+# project management
+- Asana 
+- smartsheet
