@@ -14,7 +14,7 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 - http://www.apidatafeed.com/
 - https://www.alphavantage.co/#about
 - https://nsetools.readthedocs.io/en/latest/usage.html
-
+- https://twopirllc.github.io/pandas-ta/
 
 # network trace
 - https://ebpf.io/
