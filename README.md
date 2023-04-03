@@ -93,3 +93,6 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 # project management
 - Asana 
 - smartsheet
+
+# To find git leaks
+ - https://gitleaks.io
