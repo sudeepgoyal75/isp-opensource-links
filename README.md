@@ -97,3 +97,7 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 
 # To find git leaks
  - https://gitleaks.io
+
+# efficient networking, observability, tracing, and security
+
+- https://ebpf.io/
