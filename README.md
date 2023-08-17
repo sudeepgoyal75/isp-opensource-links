@@ -101,3 +101,4 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 # efficient networking, observability, tracing, and security
 
 - https://ebpf.io/
+- https://www.brendangregg.com/
