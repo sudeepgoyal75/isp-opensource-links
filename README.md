@@ -102,3 +102,7 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 
 - https://ebpf.io/
 - https://www.brendangregg.com/
+
+# ci CD pipeline
+
+https://concourse-ci.org
