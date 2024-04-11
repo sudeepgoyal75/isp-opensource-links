@@ -15,33 +15,37 @@ delhi = Topos(latitude=28.7041, longitude=77.1025)
 start_date = datetime(2024, 1, 1)
 end_date = datetime(2024, 12, 31)
 
-# Time step (1 day)
-step = timedelta(days=1)
+# Time step (30 minutes)
+step = timedelta(minutes=30)
 
 # Initialize an empty list to store data points
 data_points = []
 
-# Loop through each date and calculate the position of Jupiter
+# Planets and celestial points to track
+bodies = ['jupiter', 'moon', 'mercury', 'venus', 'sun', 'saturn', 'rahu', 'ketu']
+
+# Loop through each date and time and calculate the positions
 ts = eph.timescale()
 while start_date <= end_date:
     t = ts.utc(start_date)
-    planet = eph['jupiter']
-    astrometric = (planet + delhi).at(t)
-    ra, dec, distance = astrometric.radec()
-    
-    # Prepare data point in InfluxDB line protocol format
-    data_point = {
-        "measurement": "jupiter_position",
-        "time": start_date.strftime('%Y-%m-%dT%H:%M:%SZ'),
-        "fields": {
-            "ra": ra._degrees,
-            "dec": dec.degrees,
-            "distance": distance.au
+    for body_name in bodies:
+        body = eph[body_name]
+        astrometric = (body + delhi).at(t)
+        ra, dec, distance = astrometric.radec()
+        
+        # Prepare data point in InfluxDB line protocol format
+        data_point = {
+            "measurement": f"{body_name}_position",
+            "time": start_date.strftime('%Y-%m-%dT%H:%M:%SZ'),
+            "fields": {
+                "ra": ra._degrees,
+                "dec": dec.degrees,
+                "distance": distance.au
+            }
         }
-    }
-    data_points.append(data_point)
+        data_points.append(data_point)
     
-    # Move to the next day
+    # Move to the next time step
     start_date += step
 
 # Write data to InfluxDB
