@@ -59,6 +59,8 @@ https://github.com/AGWA/git-crypt ( securue checkin to git )
 - PowerDNS
 - VinylDNS
 - https://www.isc.org/dns-tools/
+- pi-hole
+- dnsdist
 
 # Terraform GUI
 - Gaia
