@@ -122,3 +122,7 @@ https://playwright.dev
 # go lang profiling
 
 https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/
+
+# kubernets 
+- cilium.io
+
